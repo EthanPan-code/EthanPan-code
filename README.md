@@ -1,7 +1,7 @@
 <h1 align="center">大家好我是昱山</h1>
 <h3 align="center">我是師大附中電算社47屆學術長 目前高二</h3>
 
-- 我正在擔任 Python 班講師 [電算社47屆Python班](https://hsnucrc47.github.io/python-class/)
+- 擔任過 Python 班講師 [電算社47屆Python班](https://hsnucrc47.github.io/python-class/)
 
 - 自主學習正在嘗試將圍棋AI結合聊天機器人 **圍棋AI老師**
 
