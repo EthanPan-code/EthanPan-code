@@ -1,5 +1,5 @@
 <h1 align="center">大家好我是昱山</h1>
-<h3 align="center">我是師大附中電算社47屆學術長 目前高二</h3>
+<h3 align="center">我是電算社47屆學術長 目前高三</h3>
 
 - 擔任 [<img src="https://hsnucrc47.github.io/python-class/img/favicon.png" alt="hsnucrc47" width="16" height="16">電算社47屆Python班](https://hsnucrc47.github.io/python-class/)講師
 
