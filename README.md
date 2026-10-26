@@ -3,7 +3,7 @@
 
 - 擔任 [<img src="https://hsnucrc47.github.io/python-class/img/favicon.png" alt="hsnucrc47" width="16" height="16">電算社47屆Python班](https://hsnucrc47.github.io/python-class/)講師
 
-- 自主學習專案： [<img src="https://raw.githubusercontent.com/EthanPan-code/AIGoTeacher/refs/heads/main/image/logo.ico" alt="AIGoTeacher" width="16" height="16">**AI圍棋老師**](https://github.com/EthanPan-code/AIGoTeacher)
+- 自主學習專案： [<img src="https://raw.githubusercontent.com/EthanPan-code/AIGoTeacher/refs/heads/main/image/logo/logo.ico" alt="AIGoTeacher" width="16" height="16">**AI圍棋老師**](https://github.com/EthanPan-code/AIGoTeacher)
 
 <p align="left">
 </p>
